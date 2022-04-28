@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.catalogomobile"
+3    package="br.com.donnadabeleza.catalogo"
 4    android:versionCode="1"
 5    android:versionName="1.0.0" >
 6
@@ -12,18 +12,18 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/debug/AndroidManifest.xml:6:5-66
-14-->/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/debug/AndroidManifest.xml:6:22-64
+14-->/home/guilherme/Documentos/catalogo/android/app/src/debug/AndroidManifest.xml:6:5-66
+14-->/home/guilherme/Documentos/catalogo/android/app/src/debug/AndroidManifest.xml:6:22-64
 15
 16    <application
 17        android:name="android.app.Application"
 18        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 18-->[androidx.core:core:1.6.0] /home/guilherme/.gradle/caches/transforms-3/d118b71b31ac2018b0687bad4db3eb97/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 19        android:debuggable="true"
-20        android:icon="@mipmap/ic_launcher"
-21        android:label="catalogomobile" >
+20        android:icon="@mipmap/launcher_icon"
+21        android:label="Catálogo" >
 22        <activity
-23            android:name="com.example.catalogomobile.MainActivity"
+23            android:name="br.com.donnadabeleza.catalogo.MainActivity"
 24            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
 25            android:exported="true"
 26            android:hardwareAccelerated="true"

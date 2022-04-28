@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/path_provider_android/intermediates/merged_res/debug/values-et/values-et.xml",
+            "outputFile": "/home/guilherme/Documentos/catalogo/build/path_provider_android/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/home/guilherme/.gradle/caches/transforms-3/d118b71b31ac2018b0687bad4db3eb97/transformed/core-1.6.0/res/values-et/values-et.xml",
@@ -16,7 +16,7 @@
             ]
         },
         {
-            "outputFile": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/path_provider_android/intermediates/incremental/mergeDebugResources/merged.dir/values-et/values-et.xml",
+            "outputFile": "/home/guilherme/Documentos/catalogo/build/path_provider_android/intermediates/merged_res/debug/values-et/values-et.xml",
             "map": [
                 {
                     "source": "/home/guilherme/.gradle/caches/transforms-3/d118b71b31ac2018b0687bad4db3eb97/transformed/core-1.6.0/res/values-et/values-et.xml",

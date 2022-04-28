@@ -1,26 +1,90 @@
 [
     {
-        "merged": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/app/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-xxxhdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-xxxhdpi/splash.png"
     },
     {
-        "merged": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/app/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-v21/launch_background.xml"
     },
     {
-        "merged": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-night-xxxhdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-night-xxxhdpi/splash.png"
     },
     {
-        "merged": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-hdpi/launcher_icon.png"
     },
     {
-        "merged": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat",
-        "source": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/main/res/drawable-v21/launch_background.xml"
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-xxhdpi/launcher_icon.png"
     },
     {
-        "merged": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/app/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-xhdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-xhdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-night-xhdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-night-xhdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-v21_background.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-v21/background.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-xxhdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-mdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-night-mdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-night-mdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-night-xxhdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-night-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-hdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/drawable-night-hdpi_splash.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/drawable-night-hdpi/splash.png"
+    },
+    {
+        "merged": "/home/guilherme/Documentos/catalogo/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/home/guilherme/Documentos/catalogo/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png"
     }
 ]

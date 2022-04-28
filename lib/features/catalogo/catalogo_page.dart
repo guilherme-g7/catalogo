@@ -8,7 +8,6 @@ import 'package:provider/provider.dart';
 
 import '../../routes/routes.dart';
 import '../../utils/navigation.dart';
-import 'catalogo_dao.dart';
 import 'catalogo_model.dart';
 
 class CatalogoPage extends StatefulWidget {
@@ -19,7 +18,6 @@ class CatalogoPage extends StatefulWidget {
 }
 
 class _CatalogoPageState extends State<CatalogoPage> {
-  final CatalogoDao _catalogoDao = CatalogoDao();
   late CatalogoStore _catalogoStore;
   late FornecedorStore _fornecedorStore;
 

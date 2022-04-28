@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.catalogomobile",
+  "applicationId": "br.com.donnadabeleza.catalogo",
   "variantName": "debug",
   "elements": [
     {

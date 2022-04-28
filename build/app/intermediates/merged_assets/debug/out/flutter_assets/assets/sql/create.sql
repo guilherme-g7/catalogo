@@ -6,9 +6,3 @@ CREATE TABLE IF NOT EXISTS fornecedor(
     email           TEXT,
     telefone        TEXT
 );
-
-CREATE TABLE IF NOT EXISTS catalogo(
-    _id             INTEGER PRIMARY KEY autoincrement,
-    id              TEXT,
-    path            TEXT
-);

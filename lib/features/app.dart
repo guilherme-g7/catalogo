@@ -35,10 +35,15 @@ class DonnaDaBelezaApp extends StatelessWidget {
               const ResponsiveBreakpoint.resize(1200, name: DESKTOP),
               const ResponsiveBreakpoint.autoScale(2460, name: "4K"),
             ],
-            background: Container(color: const Color(0xFFF5F5F5))),
+            background: Container(color:  Colors.grey.shade300)),
         initialRoute: Routes.initial,
         routes: Routes.routes,
         debugShowCheckedModeBanner: false,
+        theme: ThemeData(
+          appBarTheme: AppBarTheme(
+            color: Colors.green.shade300
+          )
+        ),
         home: FornecedorPage(),
       ),
     );

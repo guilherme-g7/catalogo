@@ -5,13 +5,11 @@ import 'package:flutter/cupertino.dart';
 import 'package:sqflite/sqflite.dart';
 
 import '../../helper/sql/db_helper.dart';
-import '../catalogo/catalogo_dao.dart';
 import '../dialogs/dialog_erro.dart';
 
 class FornecedorController{
   final FornecedorApi _fornecedorApi = FornecedorApi();
   final FornecedorDao _fornecedorDao = FornecedorDao();
-  final CatalogoDao _catalogoDao = CatalogoDao();
 
   Future<Database?> get db => DatabaseHelper.getInstance().db;
 
@@ -19,8 +17,6 @@ class FornecedorController{
   getFornecedores(BuildContext context) async{
     try{
         await _fornecedorDao.deleteAll();
-        await _catalogoDao.deleteAll();
-
         var retorno = await _fornecedorApi.getFornocedores();
 
         if(retorno != null) {

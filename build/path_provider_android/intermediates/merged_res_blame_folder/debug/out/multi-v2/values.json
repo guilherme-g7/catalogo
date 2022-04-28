@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/path_provider_android/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/guilherme/Documentos/catalogo/build/path_provider_android/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/guilherme/.gradle/caches/transforms-3/c291a541648cf1084eba3acf0d5d6a11/transformed/jetified-window-1.0.0-beta04/res/values/values.xml",
@@ -44,7 +44,7 @@
             ]
         },
         {
-            "outputFile": "/home/guilherme/Documentos/catalogo_mobile/catalogomobile/build/path_provider_android/intermediates/merged_res/debug/values/values.xml",
+            "outputFile": "/home/guilherme/Documentos/catalogo/build/path_provider_android/intermediates/merged_res/debug/values/values.xml",
             "map": [
                 {
                     "source": "/home/guilherme/.gradle/caches/transforms-3/c291a541648cf1084eba3acf0d5d6a11/transformed/jetified-window-1.0.0-beta04/res/values/values.xml",
